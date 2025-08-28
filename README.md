@@ -2,6 +2,10 @@ BRIEF DEFINITION OF THE PROJECT:
 
 A simple and intuitive web app to help you manage your monthly spending.
 
+PROBLEM STATEMENT:
+
+Managing personal finances can be challenging when expenses are not properly tracked. People often struggle to stick to a budget because they lack visibility into how much they are spending and on what categories.
+
 TECHNOLOGIES USED:
 
 1 => HTML = Defines the structure and content of a webpage.
